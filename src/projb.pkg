@@ -1,0 +1,31 @@
+* This package file is generated in the adodown workflow.
+* Do not edit manually - instead, use the command ad_update in the adodown package
+*** version
+v 0.0
+*** title
+d 'PROJB': 
+*** description
+d This is my great package
+d
+*** stata
+d Requires: Stata version 0.0
+d
+*** author
+d Author: Kristoffer Bjarkefur
+*** contact
+d Contact: kbjarkefur@worldbank.org
+*** url
+d URL: y
+d
+*** date
+d Distribution-Date: 20240730
+*** adofiles
+f ado/projb.ado
+
+*** helpfiles
+f sthlp/projb.sthlp
+
+*** ancillaryfiles
+
+*** end
+e
